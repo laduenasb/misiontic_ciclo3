@@ -3,6 +3,6 @@ public class Hola{
         hola("luis");
     }
     public static void hola(String name){
-        System.out.println("Hola "+name);
+        System.out.println("Hola "+name + "hola");
     }
 }
