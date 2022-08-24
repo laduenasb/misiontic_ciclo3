@@ -1,5 +1,8 @@
 public class Hola{
     public static void main(String[] args){
-        System.out.println("Hola Mundo");
+        hola("luis");
+    }
+    public static void hola(String name){
+        System.out.println("Hola "+name + "hola");
     }
 }
